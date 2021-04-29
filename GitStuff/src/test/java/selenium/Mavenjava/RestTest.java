@@ -15,6 +15,8 @@ public class RestTest {
 	{
 		System.out.println("Twitte test");	
 		System.out.println("new GIT code1");
+		System.out.println("new git code2");
+		
 	}
 	
 	
