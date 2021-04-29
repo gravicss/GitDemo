@@ -8,6 +8,7 @@ public class RestTest {
 	public void ApiTest() 
 	{
 		System.out.println("Api auto");
+		System.out.println("mega mind");
 	}
 	
 	@Test
@@ -16,8 +17,14 @@ public class RestTest {
 		System.out.println("Twitte test");	
 		System.out.println("new GIT code1");
 		System.out.println("new git code2");
+		System.out.println("mega mind");
 		
 	}
 	
+	@Test
+	public void jira()
+	{
+		System.out.println("mega mind");
+	}
 	
 }
